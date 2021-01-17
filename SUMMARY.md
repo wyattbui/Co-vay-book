@@ -5,7 +5,7 @@
 ## LTPG-vol1
 
 * [Part 1: Fundamentals](ltpg-vol1/part-1-fundamentals/README.md)
-  * [Untitled](ltpg-vol1/part-1-fundamentals/untitled.md)
+  * [1. What is Go](ltpg-vol1/part-1-fundamentals/untitled.md)
 * [Part 2: Basic Techniques](ltpg-vol1/ltpg-vol2.md)
 
 ## LTPG-vol2 <a id="ltpg-vol2-1"></a>
