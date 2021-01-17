@@ -35,20 +35,44 @@
   * [8. How to attack](ltpg-vol2/part-2-skills/8.-how-to-attack.md)
   * [9. How to defend](ltpg-vol2/part-2-skills/9.-how-to-defend.md)
   * [10. The art of the capturing race](ltpg-vol2/part-2-skills/10.-the-art-of-the-capturing-race.md)
-  * [Ko Fighting and Ko Threats](ltpg-vol2/part-2-skills/ko-fighting-and-ko-threats.md)
-  * [Untitled](ltpg-vol2/part-2-skills/untitled.md)
-  * [Untitled](ltpg-vol2/part-2-skills/untitled-1.md)
-  * [Untitled](ltpg-vol2/part-2-skills/untitled-2.md)
+  * [11. Ko Fighting and Ko Threats](ltpg-vol2/part-2-skills/ko-fighting-and-ko-threats.md)
+  * [12. Lift and Death](ltpg-vol2/part-2-skills/untitled.md)
+  * [13. The Art of Contact Fighting](ltpg-vol2/part-2-skills/untitled-1.md)
+  * [14. Ending the Game](ltpg-vol2/part-2-skills/untitled-2.md)
 
 ## LTPG-vol3
 
-* [Untitled](ltpg-vol3/untitled.md)
+* [Part 1: The Dragon Style](ltpg-vol3/part-1-the-dragon-style/README.md)
+  * [1. Seven Dangers](ltpg-vol3/part-1-the-dragon-style/1.-seven-dangers.md)
+  * [2. Eight Secrets](ltpg-vol3/part-1-the-dragon-style/2.-eight-secrets.md)
+* [Part 2: Real Games](ltpg-vol3/part-2-real-games/README.md)
+  * [3. Opeing](ltpg-vol3/part-2-real-games/3.-opeing.md)
+  * [4. Middle game](ltpg-vol3/part-2-real-games/4.-middle-game.md)
+  * [5. End game](ltpg-vol3/part-2-real-games/5.-end-game.md)
+  * [6. A Nine-stone Handicap Game](ltpg-vol3/part-2-real-games/6.-a-nine-stone-handicap-game.md)
+  * [7. A Three-stone Handicap game](ltpg-vol3/part-2-real-games/7.-a-three-stone-handicap-game.md)
+  * [8. Even and Handicap Go](ltpg-vol3/part-2-real-games/8.-even-and-handicap-go.md)
+* [Parts 3: Improment](ltpg-vol3/parts-3-improment.md)
 
 ## LTPG-vol4
 
-* [Untitled](ltpg-vol4/untitled.md)
+* [Part 1: The Middle Game](ltpg-vol4/part-1-the-middle-game/README.md)
+  * [1. Invasion or Reduction](ltpg-vol4/part-1-the-middle-game/1.-invasion-or-reduction.md)
+  * [2. Battle Strategies](ltpg-vol4/part-1-the-middle-game/2.-battle-strategies.md)
+  * [3. How to attack](ltpg-vol4/part-1-the-middle-game/3.-how-to-attack.md)
+  * [4. How to Take Care of Your Stones](ltpg-vol4/part-1-the-middle-game/4.-how-to-take-care-of-your-stones.md)
+* [Part 2: Lift and Death](ltpg-vol4/part-2-lift-and-death/README.md)
+  * [5. Searching for life](ltpg-vol4/part-2-lift-and-death/5.-searching-for-life.md)
+  * [6. Death by design](ltpg-vol4/part-2-lift-and-death/6.-death-by-design.md)
+  * [7. Capturing Races](ltpg-vol4/part-2-lift-and-death/7.-capturing-races.md)
+  * [8. KO Fighting](ltpg-vol4/part-2-lift-and-death/8.-ko-fighting.md)
 
 ## LTPG-Vol5
 
-* [Untitled](ltpg-vol5/untitled.md)
+* [1. The Templates of Fighting](ltpg-vol5/1.-the-templates-of-fighting.md)
+* [2. Guidelines of Shape](ltpg-vol5/2.-guidelines-of-shape.md)
+* [3. Opening Guides](ltpg-vol5/3.-opening-guides.md)
+* [4. Jungsuk](ltpg-vol5/4.-jungsuk.md)
+* [5. The endgame](ltpg-vol5/5.-the-endgame.md)
+* [6. Endgame Guides](ltpg-vol5/6.-endgame-guides.md)
 
