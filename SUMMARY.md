@@ -4,7 +4,9 @@
 
 ## LTPG-vol1
 
-* [LTPG-vol2](ltpg-vol1/ltpg-vol2.md)
+* [Part 1: Fundamentals](ltpg-vol1/part-1-fundamentals/README.md)
+  * [Untitled](ltpg-vol1/part-1-fundamentals/untitled.md)
+* [Part 2: Basic Techniques](ltpg-vol1/ltpg-vol2.md)
 
 ## LTPG-vol2 <a id="ltpg-vol2-1"></a>
 

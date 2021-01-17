@@ -1,2 +1,2 @@
-# LTPG-vol2
+# Part 2: Basic Techniques
 
