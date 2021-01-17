@@ -23,22 +23,22 @@
 
 ## LTPG-vol2
 
-* [Part 1: Principles](ltpg-vol2/untitled/README.md)
-  * [1. Process of Go](ltpg-vol2/untitled/1.-process-of-go.md)
-  * [2. The Knack of the Opening](ltpg-vol2/untitled/2.-the-knack-of-the-opening.md)
-  * [3. Enclosures and Approach](ltpg-vol2/untitled/3.-enclosures-and-approach.md)
-  * [4. Answering the Approach](ltpg-vol2/untitled/4.-answering-the-approach.md)
-  * [5. Bases and Extensions](ltpg-vol2/untitled/5.-bases-and-extensions.md)
-  * [6. The way os the moving hourse](ltpg-vol2/untitled/6.-the-way-os-the-moving-hourse.md)
-  * [7. Invasion and reduction](ltpg-vol2/untitled/7.-invasion-and-reduction.md)
+* [Part 1: Principles](ltpg-vol2/part-1-principles/README.md)
+  * [1. Process of Go](ltpg-vol2/part-1-principles/1.-process-of-go.md)
+  * [2. The Knack of the Opening](ltpg-vol2/part-1-principles/2.-the-knack-of-the-opening.md)
+  * [3. Enclosures and Approach](ltpg-vol2/part-1-principles/3.-enclosures-and-approach.md)
+  * [4. Answering the Approach](ltpg-vol2/part-1-principles/4.-answering-the-approach.md)
+  * [5. Bases and Extensions](ltpg-vol2/part-1-principles/5.-bases-and-extensions.md)
+  * [6. The way os the moving hourse](ltpg-vol2/part-1-principles/6.-the-way-os-the-moving-hourse.md)
+  * [7. Invasion and reduction](ltpg-vol2/part-1-principles/7.-invasion-and-reduction.md)
 * [Part 2: Skills](ltpg-vol2/part-2-skills/README.md)
   * [8. How to attack](ltpg-vol2/part-2-skills/8.-how-to-attack.md)
   * [9. How to defend](ltpg-vol2/part-2-skills/9.-how-to-defend.md)
   * [10. The art of the capturing race](ltpg-vol2/part-2-skills/10.-the-art-of-the-capturing-race.md)
   * [11. Ko Fighting and Ko Threats](ltpg-vol2/part-2-skills/ko-fighting-and-ko-threats.md)
-  * [12. Lift and Death](ltpg-vol2/part-2-skills/untitled.md)
-  * [13. The Art of Contact Fighting](ltpg-vol2/part-2-skills/untitled-1.md)
-  * [14. Ending the Game](ltpg-vol2/part-2-skills/untitled-2.md)
+  * [12. Lift and Death](ltpg-vol2/part-2-skills/12.-lift-and-death.md)
+  * [13. The Art of Contact Fighting](ltpg-vol2/part-2-skills/13.-the-art-of-contact-fighting.md)
+  * [14. Ending the Game](ltpg-vol2/part-2-skills/14.-ending-the-game.md)
 
 ## LTPG-vol3
 
