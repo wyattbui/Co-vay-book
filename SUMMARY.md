@@ -75,3 +75,11 @@
 * [4. Jungsuk principles](ltpg-vol5/4.-jungsuk.md)
 * [5. Endgame Guides](ltpg-vol5/6.-endgame-guides.md)
 
+## TEST YOURSELF
+
+* [LTPG-VOL1](test-yourself/ltpg-vol1.md)
+* [LTPG-VOL2](test-yourself/ltpg-vol2.md)
+* [LTPG-VOL3](test-yourself/ltpg-vol3.md)
+* [LTPG-VOL4](test-yourself/ltpg-vol4.md)
+* [LTPG-VOL5](test-yourself/ltpg-vol5.md)
+
