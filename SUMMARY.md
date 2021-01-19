@@ -29,7 +29,7 @@
   * [3. Enclosures and Approach](ltpg-vol2/part-1-principles/3.-enclosures-and-approach.md)
   * [4. Answering the Approach](ltpg-vol2/part-1-principles/4.-answering-the-approach.md)
   * [5. Bases and Extensions](ltpg-vol2/part-1-principles/5.-bases-and-extensions.md)
-  * [6. The way os the moving hourse](ltpg-vol2/part-1-principles/6.-the-way-os-the-moving-hourse.md)
+  * [6. The way of the moving horses](ltpg-vol2/part-1-principles/6.-the-way-os-the-moving-hourse.md)
   * [7. Invasion and reduction](ltpg-vol2/part-1-principles/7.-invasion-and-reduction.md)
 * [Part 2: Skills](ltpg-vol2/part-2-skills/README.md)
   * [8. How to attack](ltpg-vol2/part-2-skills/8.-how-to-attack.md)
