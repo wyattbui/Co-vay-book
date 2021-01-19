@@ -46,7 +46,7 @@
   * [1. Seven Dangers](ltpg-vol3/part-1-the-dragon-style/1.-seven-dangers.md)
   * [2. Eight Secrets](ltpg-vol3/part-1-the-dragon-style/2.-eight-secrets.md)
 * [Part 2: Real Games](ltpg-vol3/part-2-real-games/README.md)
-  * [3. Opeing](ltpg-vol3/part-2-real-games/3.-opeing.md)
+  * [3. Opening](ltpg-vol3/part-2-real-games/3.-opeing.md)
   * [4. Middle game](ltpg-vol3/part-2-real-games/4.-middle-game.md)
   * [5. End game](ltpg-vol3/part-2-real-games/5.-end-game.md)
   * [6. A Nine-stone Handicap Game](ltpg-vol3/part-2-real-games/6.-a-nine-stone-handicap-game.md)
