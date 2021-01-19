@@ -36,7 +36,7 @@
   * [9. How to defend](ltpg-vol2/part-2-skills/9.-how-to-defend.md)
   * [10. The art of the capturing race](ltpg-vol2/part-2-skills/10.-the-art-of-the-capturing-race.md)
   * [11. Ko Fighting and Ko Threats](ltpg-vol2/part-2-skills/ko-fighting-and-ko-threats.md)
-  * [12. Lift and Death](ltpg-vol2/part-2-skills/12.-lift-and-death.md)
+  * [12. Life and Death](ltpg-vol2/part-2-skills/12.-life-and-death.md)
   * [13. The Art of Contact Fighting](ltpg-vol2/part-2-skills/13.-the-art-of-contact-fighting.md)
   * [14. Ending the Game](ltpg-vol2/part-2-skills/14.-ending-the-game.md)
 
