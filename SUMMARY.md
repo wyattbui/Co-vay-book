@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Table of Contents](README.md)
 
 ## LTPG-vol1
 
@@ -52,7 +52,7 @@
   * [6. A Nine-stone Handicap Game](ltpg-vol3/part-2-real-games/6.-a-nine-stone-handicap-game.md)
   * [7. A Three-stone Handicap game](ltpg-vol3/part-2-real-games/7.-a-three-stone-handicap-game.md)
   * [8. Even and Handicap Go](ltpg-vol3/part-2-real-games/8.-even-and-handicap-go.md)
-* [Parts 3: Improment](ltpg-vol3/parts-3-improment.md)
+* [Parts 3: Improvement](ltpg-vol3/parts-3-improment.md)
 
 ## LTPG-vol4
 
