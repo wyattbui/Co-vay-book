@@ -5,5 +5,9 @@
 
 ### The Board and stones
 
+![](../../.gitbook/assets/image%20%285%29.png)
+
 ### How the game is played
+
+![](../../.gitbook/assets/image%20%284%29.png)
 
