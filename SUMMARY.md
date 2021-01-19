@@ -72,7 +72,6 @@
 * [1. The Templates of Fighting](ltpg-vol5/1.-the-templates-of-fighting.md)
 * [2. Guidelines of Shape](ltpg-vol5/2.-guidelines-of-shape.md)
 * [3. Opening Guides](ltpg-vol5/3.-opening-guides.md)
-* [4. Jungsuk](ltpg-vol5/4.-jungsuk.md)
-* [5. The endgame](ltpg-vol5/5.-the-endgame.md)
-* [6. Endgame Guides](ltpg-vol5/6.-endgame-guides.md)
+* [4. Jungsuk principles](ltpg-vol5/4.-jungsuk.md)
+* [5. Endgame Guides](ltpg-vol5/6.-endgame-guides.md)
 
