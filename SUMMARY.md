@@ -61,11 +61,11 @@
   * [2. Battle Strategies](ltpg-vol4/part-1-the-middle-game/2.-battle-strategies.md)
   * [3. How to attack](ltpg-vol4/part-1-the-middle-game/3.-how-to-attack.md)
   * [4. How to Take Care of Your Stones](ltpg-vol4/part-1-the-middle-game/4.-how-to-take-care-of-your-stones.md)
-* [Part 2: Lift and Death](ltpg-vol4/part-2-lift-and-death/README.md)
-  * [5. Searching for life](ltpg-vol4/part-2-lift-and-death/5.-searching-for-life.md)
-  * [6. Death by design](ltpg-vol4/part-2-lift-and-death/6.-death-by-design.md)
-  * [7. Capturing Races](ltpg-vol4/part-2-lift-and-death/7.-capturing-races.md)
-  * [8. KO Fighting](ltpg-vol4/part-2-lift-and-death/8.-ko-fighting.md)
+* [Part 2: Life and Death](ltpg-vol4/part-2-life-and-death/README.md)
+  * [5. Searching for life](ltpg-vol4/part-2-life-and-death/5.-searching-for-life.md)
+  * [6. Death by design](ltpg-vol4/part-2-life-and-death/6.-death-by-design.md)
+  * [7. Capturing Races](ltpg-vol4/part-2-life-and-death/7.-capturing-races.md)
+  * [8. KO Fighting](ltpg-vol4/part-2-life-and-death/8.-ko-fighting.md)
 
 ## LTPG-Vol5
 
